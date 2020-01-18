@@ -1,4 +1,4 @@
-# lo-ascentus
+# Php Switch Example
 I created a function that can search the eatery based on Type, Owner Name, Last Name, Phone, Eatery Name, City, State, or Zip Code.
 This function will take two parameters. One parameter is named dbColumnToSearch and the other is named searchValue.
 I chose to use a switch clause that would perform different queries based upon its value received through the function. The major 
