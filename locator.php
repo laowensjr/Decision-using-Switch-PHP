@@ -97,4 +97,3 @@ function locator($dbColumnToSearch, $searchValue){
 				
 		}
 }
-	
